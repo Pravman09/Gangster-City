@@ -1,0 +1,24 @@
+{
+  "player": {
+    "pos": [
+      1280,
+      1450
+    ],
+    "health": 100,
+    "armor": 0,
+    "money": 40,
+    "weapons": [
+      "None"
+    ],
+    "weapon": "None",
+    "grenades": 0,
+    "reputation": 0
+  },
+  "mission_index": 0,
+  "kills": 0,
+  "civilians_hit": 0,
+  "environment": {
+    "time": 21.25212500001827,
+    "weather": "storm"
+  }
+}
