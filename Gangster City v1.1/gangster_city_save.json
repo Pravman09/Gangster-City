@@ -1,0 +1,44 @@
+{
+  "player": {
+    "pos": [
+      4548.656497115747,
+      4949.0
+    ],
+    "health": 100,
+    "armor": 0,
+    "money": 0,
+    "weapons": [
+      "None",
+      "Grenade",
+      "Rocket Launcher",
+      "Combat Shotgun",
+      "Heavy Rifle",
+      "Pistol"
+    ],
+    "weapon": "Rocket Launcher",
+    "grenades": 5,
+    "reputation": 3
+  },
+  "current_city": 1,
+  "city_mission_indices": {
+    "1": 2,
+    "2": 1
+  },
+  "city_positions": {
+    "1": [
+      4548.656497115747,
+      4949.0
+    ],
+    "2": [
+      1286.0750866969656,
+      1426.0
+    ]
+  },
+  "mission_index": 2,
+  "kills": 29,
+  "civilians_hit": 1,
+  "environment": {
+    "time": 1.563590000020883,
+    "weather": "clear"
+  }
+}
