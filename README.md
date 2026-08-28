@@ -132,7 +132,7 @@ Banks can be robbed from inside their interiors. Robbing a bank now triggers a h
 
 The game saves progress to:
 
-```text
+``text
 gangster_city_save.json
 Saved data includes:
 
